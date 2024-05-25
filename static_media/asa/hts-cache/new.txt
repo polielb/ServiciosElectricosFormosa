@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:24:13	9/9	---M--	403	error ('Forbidden')	text/plain	date:Sat,%2025%20May%202024%2001:24:13%20GMT	https://static.wixstatic.com/robots.txt		(from )
+22:24:13	9/9	---M--	403	error ('Forbidden')	text/plain	date:Sat,%2025%20May%202024%2001:24:13%20GMT	https://static.wixstatic.com/media/	C:/xampp/htdocs/corcho/static_media/asa/static.wixstatic.com/media/index.html	(from )
